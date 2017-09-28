@@ -7,7 +7,7 @@ The presentations are sorted by date in folders.
 
 For PRs, please use the format:
 
-> 20xx-xx-xx/<speaker>--<title>.pdf
+> 20xx-xx-xx/speaker-name--title.pdf
 
 Example:
 
