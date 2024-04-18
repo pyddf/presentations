@@ -1,0 +1,3869 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R /F6 8 0 R 
+  /F7 12 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Symbol /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 56 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 57 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.python.org/3/library/argparse.html)
+>> /Border [ 0 0 0 ] /Rect [ 102.0436 209.8236 305.4636 221.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://click.palletsprojects.com/)
+>> /Border [ 0 0 0 ] /Rect [ 84.24362 191.8236 224.8436 203.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://typer.tiangolo.com/)
+>> /Border [ 0 0 0 ] /Rect [ 88.14362 173.8236 202.6436 185.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cyclopts.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 98.70362 155.8236 235.9936 167.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://brentyi.github.io/tyro/)
+>> /Border [ 0 0 0 ] /Rect [ 79.25362 137.8236 202.0936 149.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cappa.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 89.82362 119.8236 218.2336 131.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://jsonargparse.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 120.3836 101.8236 279.3536 113.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ] /Contents 58 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+22 0 obj
+<<
+/Outlines 24 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 52 0 R /Type /Catalog
+>>
+endobj
+23 0 obj
+<<
+/Author () /CreationDate (D:20240418182816+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20240418182816+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\334bersicht \374ber CLI-Frameworks) /Trapped /False
+>>
+endobj
+24 0 obj
+<<
+/Count 36 /First 25 0 R /Last 50 0 R /Type /Outlines
+>>
+endobj
+25 0 obj
+<<
+/Count 1 /Dest [ 6 0 R /XYZ 57.02362 627.0236 0 ] /First 26 0 R /Last 26 0 R /Next 27 0 R /Parent 24 0 R 
+  /Title (Das Problem)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 6 0 R /XYZ 57.02362 594.0236 0 ] /Parent 25 0 R /Title (argv konventionsgerecht auswerten)
+>>
+endobj
+27 0 obj
+<<
+/Count 1 /Dest [ 6 0 R /XYZ 57.02362 426.0236 0 ] /First 28 0 R /Last 28 0 R /Next 29 0 R /Parent 24 0 R 
+  /Prev 25 0 R /Title (Die L\366sungen)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 6 0 R /XYZ 57.02362 393.0236 0 ] /Parent 27 0 R /Title (Verschiedene Wege zur L\366sung)
+>>
+endobj
+29 0 obj
+<<
+/Count 2 /Dest [ 9 0 R /XYZ 57.02362 765.0236 0 ] /First 30 0 R /Last 31 0 R /Next 32 0 R /Parent 24 0 R 
+  /Prev 27 0 R /Title (sys.argv)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 732.0236 0 ] /Next 31 0 R /Parent 29 0 R /Title (Beispiel)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 500.8236 0 ] /Parent 29 0 R /Prev 30 0 R /Title (Nachteile)
+>>
+endobj
+32 0 obj
+<<
+/Count 3 /Dest [ 9 0 R /XYZ 57.02362 392.8236 0 ] /First 33 0 R /Last 35 0 R /Next 36 0 R /Parent 24 0 R 
+  /Prev 29 0 R /Title (argparse)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 359.8236 0 ] /Next 34 0 R /Parent 32 0 R /Title (Beispiel)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 126.5269 0 ] /Next 35 0 R /Parent 32 0 R /Prev 33 0 R /Title (Vorteile)
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 687.0236 0 ] /Parent 32 0 R /Prev 34 0 R /Title (Nachteile)
+>>
+endobj
+36 0 obj
+<<
+/Count 3 /Dest [ 10 0 R /XYZ 57.02362 543.0236 0 ] /First 37 0 R /Last 39 0 R /Next 40 0 R /Parent 24 0 R 
+  /Prev 32 0 R /Title (Click)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 510.0236 0 ] /Next 38 0 R /Parent 36 0 R /Title (Beispiel)
+>>
+endobj
+38 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 245.1297 0 ] /Next 39 0 R /Parent 36 0 R /Prev 37 0 R /Title (Vorteile)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 11 0 R /XYZ 57.02362 741.0236 0 ] /Parent 36 0 R /Prev 38 0 R /Title (Nachteile)
+>>
+endobj
+40 0 obj
+<<
+/Count 3 /Dest [ 11 0 R /XYZ 57.02362 597.0236 0 ] /First 41 0 R /Last 43 0 R /Next 44 0 R /Parent 24 0 R 
+  /Prev 36 0 R /Title (cyclopts)
+>>
+endobj
+41 0 obj
+<<
+/Dest [ 11 0 R /XYZ 57.02362 564.0236 0 ] /Next 42 0 R /Parent 40 0 R /Title (Beispiel)
+>>
+endobj
+42 0 obj
+<<
+/Dest [ 11 0 R /XYZ 57.02362 272.8236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (Vorteile)
+>>
+endobj
+43 0 obj
+<<
+/Dest [ 11 0 R /XYZ 57.02362 122.8236 0 ] /Parent 40 0 R /Prev 42 0 R /Title (Nachteile)
+>>
+endobj
+44 0 obj
+<<
+/Count 3 /Dest [ 13 0 R /XYZ 57.02362 665.8236 0 ] /First 45 0 R /Last 47 0 R /Next 48 0 R /Parent 24 0 R 
+  /Prev 40 0 R /Title (tyro & Co.)
+>>
+endobj
+45 0 obj
+<<
+/Dest [ 13 0 R /XYZ 57.02362 632.8236 0 ] /Next 46 0 R /Parent 44 0 R /Title (Abbildung von CLI-Argumenten auf Datenstrukturen)
+>>
+endobj
+46 0 obj
+<<
+/Dest [ 13 0 R /XYZ 57.02362 464.8236 0 ] /Next 47 0 R /Parent 44 0 R /Prev 45 0 R /Title (Beispiel mit Funktionsargumenten)
+>>
+endobj
+47 0 obj
+<<
+/Dest [ 21 0 R /XYZ 57.02362 765.0236 0 ] /Parent 44 0 R /Prev 46 0 R /Title (Beispiel mit Dataclass)
+>>
+endobj
+48 0 obj
+<<
+/Count 1 /Dest [ 21 0 R /XYZ 57.02362 413.8236 0 ] /First 49 0 R /Last 49 0 R /Next 50 0 R /Parent 24 0 R 
+  /Prev 44 0 R /Title (Zusammenfassung)
+>>
+endobj
+49 0 obj
+<<
+/Dest [ 21 0 R /XYZ 57.02362 380.8236 0 ] /Parent 48 0 R /Title (Meine \(ganz subjektiven\) Favoriten)
+>>
+endobj
+50 0 obj
+<<
+/Count 1 /Dest [ 21 0 R /XYZ 57.02362 278.8236 0 ] /First 51 0 R /Last 51 0 R /Parent 24 0 R /Prev 48 0 R 
+  /Title (Anhang)
+>>
+endobj
+51 0 obj
+<<
+/Dest [ 21 0 R /XYZ 57.02362 245.8236 0 ] /Parent 50 0 R /Title (Links)
+>>
+endobj
+52 0 obj
+<<
+/Count 6 /Kids [ 6 0 R 9 0 R 10 0 R 11 0 R 13 0 R 21 0 R ] /Type /Pages
+>>
+endobj
+53 0 obj
+<<
+/Length 6255
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 109.5342 0 Td (\334bersicht \374ber CLI-Frameworks) Tj T* -109.5342 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 687.0236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 99.81667 0 Td (Wie kann ich sys.argv komfortabel auswerten?) Tj T* -99.81667 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 639.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 163.6242 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Detlef Lannert, PyDdf 17. 04. 2024) Tj T* -163.6242 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Das Problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (argv konventionsgerecht auswerten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 564.0236 cm
+Q
+q
+1 0 0 1 57.02362 564.0236 cm
+Q
+q
+1 0 0 1 57.02362 552.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Es gibt mehrere Konventionen!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 546.0236 cm
+Q
+q
+1 0 0 1 57.02362 534.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Auf Unix-Systemen ist die Auswertung der Argumente Sache des Programms.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 528.0236 cm
+Q
+q
+1 0 0 1 57.02362 504.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.907565 Tw 12 TL /F1 10 Tf 0 0 0 rg (Klassische Unix-Konventionen erschweren das: ) Tj /F3 10 Tf (ls) Tj ( ) Tj (-l) Tj ( ) Tj (-d) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (ls) Tj ( ) Tj (-ld) Tj /F1 10 Tf (; ) Tj /F3 10 Tf (ls) Tj ( ) Tj (-w) Tj ( ) Tj (50) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (ls) Tj ( ) Tj (-w50) Tj /F1 10 Tf (;) Tj T* 0 Tw /F3 10 Tf (ls) Tj ( ) Tj (-ldw50) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 498.0236 cm
+Q
+q
+1 0 0 1 57.02362 486.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (GNU-Optionen kommen hinzu: ) Tj /F3 10 Tf (ls) Tj ( ) Tj (--all) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (ls) Tj ( ) Tj (--width=50) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (ls) Tj ( ) Tj (--width) Tj ( ) Tj (50) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 480.0236 cm
+Q
+q
+1 0 0 1 57.02362 468.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Es kann ein oder mehrere unbenannte Argumente geben; ) Tj /F3 10 Tf (--) Tj /F1 10 Tf ( als optionaler Trenner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 462.0236 cm
+Q
+q
+1 0 0 1 57.02362 438.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.899104 Tw 12 TL /F1 10 Tf 0 0 0 rg (Zus\344tzlich gibt es hierzu inkompatible \204Standards\223 \(ip, MS-DOS, ) Tj /F3 10 Tf (+name) Tj /F1 10 Tf (, \205\) ) Tj /F4 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( hier nicht weiter) Tj T* 0 Tw (betrachtet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 438.0236 cm
+Q
+q
+1 0 0 1 57.02362 405.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Die L\366sungen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 375.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Verschiedene Wege zur L\366sung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 363.0236 cm
+Q
+q
+1 0 0 1 57.02362 363.0236 cm
+Q
+q
+1 0 0 1 57.02362 351.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Handarbeit: sys.argv) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 345.0236 cm
+Q
+q
+1 0 0 1 57.02362 333.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Standardl\366sung: argparse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 327.0236 cm
+Q
+q
+1 0 0 1 57.02362 315.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metadaten im Decorator: Click) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 309.0236 cm
+Q
+q
+1 0 0 1 57.02362 297.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metadaten als Annotations: cyclopts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 291.0236 cm
+Q
+q
+1 0 0 1 57.02362 279.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metadaten als dataclass: cappa) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 273.0236 cm
+Q
+q
+1 0 0 1 57.02362 261.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Metadaten wahlweise in Annotations oder dataclass: tyro, jsonargparse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 255.0236 cm
+Q
+q
+1 0 0 1 57.02362 243.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (au\337er Konkurrenz \(TUI statt CLI\): textual) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 243.0236 cm
+Q
+q
+1 0 0 1 57.02362 225.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(ohne Anspruch auf Vollst\344ndigkeit!\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+54 0 obj
+<<
+/Length 19537
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (sys.argv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 512.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 192 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 168 138 12 re f*
+.941176 .972549 1 rg
+n 138 168 0 12 re f*
+.941176 .972549 1 rg
+n 0 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 36 12 re f*
+.941176 .972549 1 rg
+n 42 144 18 12 re f*
+.941176 .972549 1 rg
+n 60 144 0 12 re f*
+.941176 .972549 1 rg
+n 0 132 0 12 re f*
+.941176 .972549 1 rg
+n 0 120 18 12 re f*
+.941176 .972549 1 rg
+n 24 120 24 12 re f*
+.941176 .972549 1 rg
+n 48 120 18 12 re f*
+.941176 .972549 1 rg
+n 66 120 0 12 re f*
+.941176 .972549 1 rg
+n 24 108 12 12 re f*
+.941176 .972549 1 rg
+n 42 108 18 12 re f*
+.941176 .972549 1 rg
+n 60 108 6 12 re f*
+.941176 .972549 1 rg
+n 66 108 18 12 re f*
+.941176 .972549 1 rg
+n 84 108 6 12 re f*
+.941176 .972549 1 rg
+n 90 108 24 12 re f*
+.941176 .972549 1 rg
+n 114 108 6 12 re f*
+.941176 .972549 1 rg
+n 126 108 6 12 re f*
+.941176 .972549 1 rg
+n 138 108 6 12 re f*
+.941176 .972549 1 rg
+n 150 108 18 12 re f*
+.941176 .972549 1 rg
+n 174 108 18 12 re f*
+.941176 .972549 1 rg
+n 192 108 6 12 re f*
+.941176 .972549 1 rg
+n 198 108 24 12 re f*
+.941176 .972549 1 rg
+n 222 108 6 12 re f*
+.941176 .972549 1 rg
+n 228 108 6 12 re f*
+.941176 .972549 1 rg
+n 234 108 6 12 re f*
+.941176 .972549 1 rg
+n 246 108 12 12 re f*
+.941176 .972549 1 rg
+n 264 108 24 12 re f*
+.941176 .972549 1 rg
+n 288 108 6 12 re f*
+.941176 .972549 1 rg
+n 294 108 0 12 re f*
+.941176 .972549 1 rg
+n 48 96 30 12 re f*
+.941176 .972549 1 rg
+n 78 96 6 12 re f*
+.941176 .972549 1 rg
+n 84 96 6 12 re f*
+.941176 .972549 1 rg
+n 90 96 42 12 re f*
+.941176 .972549 1 rg
+n 132 96 12 12 re f*
+.941176 .972549 1 rg
+n 144 96 6 12 re f*
+.941176 .972549 1 rg
+n 150 96 18 12 re f*
+.941176 .972549 1 rg
+n 168 96 6 12 re f*
+.941176 .972549 1 rg
+n 174 96 24 12 re f*
+.941176 .972549 1 rg
+n 198 96 6 12 re f*
+.941176 .972549 1 rg
+n 204 96 6 12 re f*
+.941176 .972549 1 rg
+n 210 96 6 12 re f*
+.941176 .972549 1 rg
+n 216 96 6 12 re f*
+.941176 .972549 1 rg
+n 222 96 60 12 re f*
+.941176 .972549 1 rg
+n 282 96 6 12 re f*
+.941176 .972549 1 rg
+n 288 96 0 12 re f*
+.941176 .972549 1 rg
+n 48 84 18 12 re f*
+.941176 .972549 1 rg
+n 66 84 6 12 re f*
+.941176 .972549 1 rg
+n 72 84 24 12 re f*
+.941176 .972549 1 rg
+n 96 84 6 12 re f*
+.941176 .972549 1 rg
+n 102 84 6 12 re f*
+.941176 .972549 1 rg
+n 108 84 6 12 re f*
+.941176 .972549 1 rg
+n 114 84 0 12 re f*
+.941176 .972549 1 rg
+n 0 72 0 12 re f*
+.941176 .972549 1 rg
+n 24 60 12 12 re f*
+.941176 .972549 1 rg
+n 42 60 18 12 re f*
+.941176 .972549 1 rg
+n 60 60 6 12 re f*
+.941176 .972549 1 rg
+n 66 60 18 12 re f*
+.941176 .972549 1 rg
+n 84 60 6 12 re f*
+.941176 .972549 1 rg
+n 90 60 24 12 re f*
+.941176 .972549 1 rg
+n 114 60 6 12 re f*
+.941176 .972549 1 rg
+n 126 60 6 12 re f*
+.941176 .972549 1 rg
+n 138 60 6 12 re f*
+.941176 .972549 1 rg
+n 150 60 18 12 re f*
+.941176 .972549 1 rg
+n 174 60 18 12 re f*
+.941176 .972549 1 rg
+n 192 60 6 12 re f*
+.941176 .972549 1 rg
+n 198 60 24 12 re f*
+.941176 .972549 1 rg
+n 222 60 6 12 re f*
+.941176 .972549 1 rg
+n 228 60 6 12 re f*
+.941176 .972549 1 rg
+n 234 60 6 12 re f*
+.941176 .972549 1 rg
+n 246 60 12 12 re f*
+.941176 .972549 1 rg
+n 264 60 24 12 re f*
+.941176 .972549 1 rg
+n 288 60 6 12 re f*
+.941176 .972549 1 rg
+n 294 60 0 12 re f*
+.941176 .972549 1 rg
+n 48 48 30 12 re f*
+.941176 .972549 1 rg
+n 78 48 6 12 re f*
+.941176 .972549 1 rg
+n 84 48 54 12 re f*
+.941176 .972549 1 rg
+n 138 48 6 12 re f*
+.941176 .972549 1 rg
+n 144 48 0 12 re f*
+.941176 .972549 1 rg
+n 48 36 18 12 re f*
+.941176 .972549 1 rg
+n 72 36 18 12 re f*
+.941176 .972549 1 rg
+n 90 36 6 12 re f*
+.941176 .972549 1 rg
+n 96 36 24 12 re f*
+.941176 .972549 1 rg
+n 120 36 6 12 re f*
+.941176 .972549 1 rg
+n 126 36 6 12 re f*
+.941176 .972549 1 rg
+n 132 36 6 12 re f*
+.941176 .972549 1 rg
+n 150 36 156 12 re f*
+.941176 .972549 1 rg
+n 306 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 12 12 re f*
+.941176 .972549 1 rg
+n 18 12 48 12 re f*
+.941176 .972549 1 rg
+n 72 12 12 12 re f*
+.941176 .972549 1 rg
+n 90 12 60 12 re f*
+.941176 .972549 1 rg
+n 150 12 6 12 re f*
+.941176 .972549 1 rg
+n 156 12 0 12 re f*
+.941176 .972549 1 rg
+n 24 0 24 12 re f*
+.941176 .972549 1 rg
+n 48 0 12 12 re f*
+.941176 .972549 1 rg
+n 60 0 0 12 re f*
+BT 1 0 0 1 0 170 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (#! /usr/bin/env python3) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (sys) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (main) Tj 0 0 0 rg (\(\):) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("-h") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg (f) Tj ("Usage:) Tj /F6 10 Tf .733333 .4 .133333 rg (\\n) Tj .733333 .4 .533333 rg ({) Tj /F3 10 Tf 0 0 0 rg (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj ([) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (]) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg ( [-v] ...") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (exit) Tj (\() Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (len) Tj 0 0 0 rg (\() Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("-v") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj /F6 10 Tf 0 .501961 0 rg (del) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argv) Tj ([) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (]) Tj (  ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# there might be more args) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .098039 .090196 .486275 rg (__name__) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("__main__") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (main) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 482.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Nachteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 470.8236 cm
+Q
+q
+1 0 0 1 57.02362 470.8236 cm
+Q
+q
+1 0 0 1 57.02362 458.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (umst\344ndlich, selbst in ganz einfachen F\344llen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 452.8236 cm
+Q
+q
+1 0 0 1 57.02362 440.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(De-facto-\) Standards werden meist nicht eingehalten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 434.8236 cm
+Q
+q
+1 0 0 1 57.02362 422.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hilfetext muss manuell angepasst werden) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 422.8236 cm
+Q
+q
+1 0 0 1 57.02362 404.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fazit: Gar nicht erst damit anfangen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 371.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (argparse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 341.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 138.5269 cm
+q
+q
+.899156 0 0 .899156 0 0 cm
+q
+1 0 0 1 6.6 7.340216 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 534 216 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 192 138 12 re f*
+.941176 .972549 1 rg
+n 138 192 0 12 re f*
+.941176 .972549 1 rg
+n 0 180 0 12 re f*
+.941176 .972549 1 rg
+n 0 168 36 12 re f*
+.941176 .972549 1 rg
+n 42 168 48 12 re f*
+.941176 .972549 1 rg
+n 90 168 0 12 re f*
+.941176 .972549 1 rg
+n 0 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 36 12 re f*
+.941176 .972549 1 rg
+n 42 144 6 12 re f*
+.941176 .972549 1 rg
+n 54 144 48 12 re f*
+.941176 .972549 1 rg
+n 102 144 6 12 re f*
+.941176 .972549 1 rg
+n 108 144 84 12 re f*
+.941176 .972549 1 rg
+n 192 144 6 12 re f*
+.941176 .972549 1 rg
+n 198 144 24 12 re f*
+.941176 .972549 1 rg
+n 222 144 6 12 re f*
+.941176 .972549 1 rg
+n 228 144 36 12 re f*
+.941176 .972549 1 rg
+n 264 144 6 12 re f*
+.941176 .972549 1 rg
+n 276 144 66 12 re f*
+.941176 .972549 1 rg
+n 342 144 6 12 re f*
+.941176 .972549 1 rg
+n 348 144 138 12 re f*
+.941176 .972549 1 rg
+n 486 144 6 12 re f*
+.941176 .972549 1 rg
+n 492 144 0 12 re f*
+.941176 .972549 1 rg
+n 0 132 36 12 re f*
+.941176 .972549 1 rg
+n 36 132 6 12 re f*
+.941176 .972549 1 rg
+n 42 132 72 12 re f*
+.941176 .972549 1 rg
+n 114 132 6 12 re f*
+.941176 .972549 1 rg
+n 120 132 24 12 re f*
+.941176 .972549 1 rg
+n 144 132 6 12 re f*
+.941176 .972549 1 rg
+n 156 132 66 12 re f*
+.941176 .972549 1 rg
+n 222 132 6 12 re f*
+.941176 .972549 1 rg
+n 234 132 36 12 re f*
+.941176 .972549 1 rg
+n 270 132 6 12 re f*
+.941176 .972549 1 rg
+n 276 132 72 12 re f*
+.941176 .972549 1 rg
+n 348 132 6 12 re f*
+.941176 .972549 1 rg
+n 360 132 24 12 re f*
+.941176 .972549 1 rg
+n 384 132 6 12 re f*
+.941176 .972549 1 rg
+n 390 132 102 12 re f*
+.941176 .972549 1 rg
+n 492 132 6 12 re f*
+.941176 .972549 1 rg
+n 498 132 0 12 re f*
+.941176 .972549 1 rg
+n 0 120 36 12 re f*
+.941176 .972549 1 rg
+n 36 120 6 12 re f*
+.941176 .972549 1 rg
+n 42 120 72 12 re f*
+.941176 .972549 1 rg
+n 114 120 6 12 re f*
+.941176 .972549 1 rg
+n 120 120 24 12 re f*
+.941176 .972549 1 rg
+n 144 120 6 12 re f*
+.941176 .972549 1 rg
+n 156 120 54 12 re f*
+.941176 .972549 1 rg
+n 210 120 6 12 re f*
+.941176 .972549 1 rg
+n 222 120 24 12 re f*
+.941176 .972549 1 rg
+n 246 120 6 12 re f*
+.941176 .972549 1 rg
+n 252 120 18 12 re f*
+.941176 .972549 1 rg
+n 270 120 6 12 re f*
+.941176 .972549 1 rg
+n 282 120 42 12 re f*
+.941176 .972549 1 rg
+n 324 120 6 12 re f*
+.941176 .972549 1 rg
+n 330 120 6 12 re f*
+.941176 .972549 1 rg
+n 336 120 6 12 re f*
+.941176 .972549 1 rg
+n 348 120 24 12 re f*
+.941176 .972549 1 rg
+n 372 120 6 12 re f*
+.941176 .972549 1 rg
+n 378 120 138 12 re f*
+.941176 .972549 1 rg
+n 516 120 6 12 re f*
+.941176 .972549 1 rg
+n 522 120 0 12 re f*
+.941176 .972549 1 rg
+n 0 108 36 12 re f*
+.941176 .972549 1 rg
+n 36 108 6 12 re f*
+.941176 .972549 1 rg
+n 42 108 72 12 re f*
+.941176 .972549 1 rg
+n 114 108 6 12 re f*
+.941176 .972549 1 rg
+n 120 108 42 12 re f*
+.941176 .972549 1 rg
+n 162 108 6 12 re f*
+.941176 .972549 1 rg
+n 174 108 30 12 re f*
+.941176 .972549 1 rg
+n 204 108 6 12 re f*
+.941176 .972549 1 rg
+n 210 108 18 12 re f*
+.941176 .972549 1 rg
+n 228 108 6 12 re f*
+.941176 .972549 1 rg
+n 240 108 42 12 re f*
+.941176 .972549 1 rg
+n 282 108 6 12 re f*
+.941176 .972549 1 rg
+n 288 108 36 12 re f*
+.941176 .972549 1 rg
+n 324 108 6 12 re f*
+.941176 .972549 1 rg
+n 336 108 24 12 re f*
+.941176 .972549 1 rg
+n 360 108 6 12 re f*
+.941176 .972549 1 rg
+n 366 108 42 12 re f*
+.941176 .972549 1 rg
+n 408 108 6 12 re f*
+.941176 .972549 1 rg
+n 414 108 0 12 re f*
+.941176 .972549 1 rg
+n 0 96 0 12 re f*
+.941176 .972549 1 rg
+n 0 84 18 12 re f*
+.941176 .972549 1 rg
+n 24 84 24 12 re f*
+.941176 .972549 1 rg
+n 48 84 18 12 re f*
+.941176 .972549 1 rg
+n 66 84 0 12 re f*
+.941176 .972549 1 rg
+n 24 72 24 12 re f*
+.941176 .972549 1 rg
+n 54 72 6 12 re f*
+.941176 .972549 1 rg
+n 66 72 36 12 re f*
+.941176 .972549 1 rg
+n 102 72 6 12 re f*
+.941176 .972549 1 rg
+n 108 72 60 12 re f*
+.941176 .972549 1 rg
+n 168 72 12 12 re f*
+.941176 .972549 1 rg
+n 180 72 0 12 re f*
+.941176 .972549 1 rg
+n 24 60 12 12 re f*
+.941176 .972549 1 rg
+n 42 60 24 12 re f*
+.941176 .972549 1 rg
+n 66 60 6 12 re f*
+.941176 .972549 1 rg
+n 72 60 42 12 re f*
+.941176 .972549 1 rg
+n 114 60 6 12 re f*
+.941176 .972549 1 rg
+n 120 60 0 12 re f*
+.941176 .972549 1 rg
+n 48 48 30 12 re f*
+.941176 .972549 1 rg
+n 78 48 6 12 re f*
+.941176 .972549 1 rg
+n 84 48 54 12 re f*
+.941176 .972549 1 rg
+n 138 48 6 12 re f*
+.941176 .972549 1 rg
+n 144 48 0 12 re f*
+.941176 .972549 1 rg
+n 24 36 30 12 re f*
+.941176 .972549 1 rg
+n 54 36 6 12 re f*
+.941176 .972549 1 rg
+n 60 36 24 12 re f*
+.941176 .972549 1 rg
+n 84 36 6 12 re f*
+.941176 .972549 1 rg
+n 90 36 30 12 re f*
+.941176 .972549 1 rg
+n 126 36 6 12 re f*
+.941176 .972549 1 rg
+n 138 36 6 12 re f*
+.941176 .972549 1 rg
+n 144 36 42 12 re f*
+.941176 .972549 1 rg
+n 186 36 6 12 re f*
+.941176 .972549 1 rg
+n 192 36 24 12 re f*
+.941176 .972549 1 rg
+n 216 36 6 12 re f*
+.941176 .972549 1 rg
+n 222 36 24 12 re f*
+.941176 .972549 1 rg
+n 246 36 6 12 re f*
+.941176 .972549 1 rg
+n 252 36 24 12 re f*
+.941176 .972549 1 rg
+n 276 36 6 12 re f*
+.941176 .972549 1 rg
+n 282 36 18 12 re f*
+.941176 .972549 1 rg
+n 300 36 6 12 re f*
+.941176 .972549 1 rg
+n 306 36 24 12 re f*
+.941176 .972549 1 rg
+n 330 36 6 12 re f*
+.941176 .972549 1 rg
+n 336 36 12 12 re f*
+.941176 .972549 1 rg
+n 348 36 6 12 re f*
+.941176 .972549 1 rg
+n 354 36 24 12 re f*
+.941176 .972549 1 rg
+n 378 36 6 12 re f*
+.941176 .972549 1 rg
+n 384 36 30 12 re f*
+.941176 .972549 1 rg
+n 414 36 6 12 re f*
+.941176 .972549 1 rg
+n 420 36 6 12 re f*
+.941176 .972549 1 rg
+n 426 36 18 12 re f*
+.941176 .972549 1 rg
+n 444 36 6 12 re f*
+.941176 .972549 1 rg
+n 450 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 12 12 re f*
+.941176 .972549 1 rg
+n 18 12 48 12 re f*
+.941176 .972549 1 rg
+n 72 12 12 12 re f*
+.941176 .972549 1 rg
+n 90 12 60 12 re f*
+.941176 .972549 1 rg
+n 150 12 6 12 re f*
+.941176 .972549 1 rg
+n 156 12 0 12 re f*
+.941176 .972549 1 rg
+n 24 0 24 12 re f*
+.941176 .972549 1 rg
+n 48 0 12 12 re f*
+.941176 .972549 1 rg
+n 60 0 0 12 re f*
+BT 1 0 0 1 0 194 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (#! /usr/bin/env python3) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (argparse) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (parser) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (argparse) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (ArgumentParser) Tj (\() Tj (prog) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("ex01") Tj 0 0 0 rg (,) Tj ( ) Tj (description) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Beispiel f\374r argparse") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (parser) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (add_argument) Tj (\() Tj .729412 .129412 .129412 rg ("-v") Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("--verbose") Tj 0 0 0 rg (,) Tj ( ) Tj (action) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("store_true") Tj 0 0 0 rg (,) Tj ( ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Geschw\344tzigkeit") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (parser) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (add_argument) Tj (\() Tj .729412 .129412 .129412 rg ("-c") Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("--count") Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (type) Tj .4 .4 .4 rg (=) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg (,) Tj ( ) Tj (default) Tj .4 .4 .4 rg (=) Tj (1) Tj 0 0 0 rg (,) Tj ( ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Anzahl Wiederholungen") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (parser) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (add_argument) Tj (\() Tj .729412 .129412 .129412 rg ("names") Tj 0 0 0 rg (,) Tj ( ) Tj (nargs) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("+") Tj 0 0 0 rg (,) Tj ( ) Tj (metavar) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("NAME") Tj 0 0 0 rg (,) Tj ( ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Namen") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (main) Tj 0 0 0 rg (\(\):) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (args) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (parser) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (parse_args) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (verbose) Tj (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (count) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg (f) Tj ("Hallo ) Tj /F6 10 Tf .733333 .4 .533333 rg ({) Tj /F3 10 Tf .729412 .129412 .129412 rg (', ') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (names) Tj (\)) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg (! ") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .098039 .090196 .486275 rg (__name__) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("__main__") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (main) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 108.5269 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Vorteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 96.52692 cm
+Q
+q
+1 0 0 1 57.02362 96.52692 cm
+Q
+q
+1 0 0 1 57.02362 84.52692 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bestandteil der Standardbibliothek von Python ) Tj /F4 10 Tf 12 TL (\336) Tj /F1 10 Tf 12 TL ( immer da!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 78.52692 cm
+Q
+q
+1 0 0 1 57.02362 66.52692 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gut dokumentiert) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 62.69291 cm
+Q
+ 
+endstream
+endobj
+55 0 obj
+<<
+/Length 15421
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 753.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehr flexibel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 747.0236 cm
+Q
+q
+1 0 0 1 57.02362 735.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (stellt ) Tj /F3 10 Tf (--help) Tj /F1 10 Tf ( bereit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 729.0236 cm
+Q
+q
+1 0 0 1 57.02362 717.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (unterst\374tzt die \374blichen Konventionen, einschlie\337lich Subkommandos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+Q
+q
+1 0 0 1 57.02362 699.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (verwendbar z. B. f\374r Django-Management-Kommandos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 699.0236 cm
+Q
+q
+1 0 0 1 57.02362 669.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Nachteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 657.0236 cm
+Q
+q
+1 0 0 1 57.02362 657.0236 cm
+Q
+q
+1 0 0 1 57.02362 645.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (aufwendig zu schreiben \(und sich zu merken\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 639.0236 cm
+Q
+q
+1 0 0 1 57.02362 627.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nur bei richtiger Anwendung konventionsgerecht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 621.0236 cm
+Q
+q
+1 0 0 1 57.02362 609.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (keine Typechecks, keine gute IDE-Unterst\374tzung) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 603.0236 cm
+Q
+q
+1 0 0 1 57.02362 591.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (imperativ, nicht deklarativ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 585.0236 cm
+Q
+q
+1 0 0 1 57.02362 573.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Definitionen haben keinen Bezug zu Funktionen und ihren Argumenten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 567.0236 cm
+Q
+q
+1 0 0 1 57.02362 555.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (in bestimmten F\344llen unpr\344zise \(siehe Click-Doku\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 555.0236 cm
+Q
+q
+1 0 0 1 57.02362 522.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Click) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 277.1297 cm
+q
+q
+.95255 0 0 .95255 0 0 cm
+q
+1 0 0 1 6.6 6.928769 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 504 216 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 192 138 12 re f*
+.941176 .972549 1 rg
+n 138 192 0 12 re f*
+.941176 .972549 1 rg
+n 0 180 0 12 re f*
+.941176 .972549 1 rg
+n 0 168 36 12 re f*
+.941176 .972549 1 rg
+n 42 168 30 12 re f*
+.941176 .972549 1 rg
+n 72 168 0 12 re f*
+.941176 .972549 1 rg
+n 0 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 36 12 re f*
+.941176 .972549 1 rg
+n 36 144 6 12 re f*
+.941176 .972549 1 rg
+n 42 144 42 12 re f*
+.941176 .972549 1 rg
+n 84 144 12 12 re f*
+.941176 .972549 1 rg
+n 96 144 0 12 re f*
+.941176 .972549 1 rg
+n 0 132 36 12 re f*
+.941176 .972549 1 rg
+n 36 132 6 12 re f*
+.941176 .972549 1 rg
+n 42 132 36 12 re f*
+.941176 .972549 1 rg
+n 78 132 6 12 re f*
+.941176 .972549 1 rg
+n 84 132 144 12 re f*
+.941176 .972549 1 rg
+n 228 132 6 12 re f*
+.941176 .972549 1 rg
+n 240 132 24 12 re f*
+.941176 .972549 1 rg
+n 264 132 6 12 re f*
+.941176 .972549 1 rg
+n 276 132 42 12 re f*
+.941176 .972549 1 rg
+n 318 132 6 12 re f*
+.941176 .972549 1 rg
+n 324 132 30 12 re f*
+.941176 .972549 1 rg
+n 354 132 6 12 re f*
+.941176 .972549 1 rg
+n 366 132 24 12 re f*
+.941176 .972549 1 rg
+n 390 132 6 12 re f*
+.941176 .972549 1 rg
+n 396 132 90 12 re f*
+.941176 .972549 1 rg
+n 486 132 6 12 re f*
+.941176 .972549 1 rg
+n 492 132 0 12 re f*
+.941176 .972549 1 rg
+n 0 120 36 12 re f*
+.941176 .972549 1 rg
+n 36 120 6 12 re f*
+.941176 .972549 1 rg
+n 42 120 36 12 re f*
+.941176 .972549 1 rg
+n 78 120 6 12 re f*
+.941176 .972549 1 rg
+n 84 120 54 12 re f*
+.941176 .972549 1 rg
+n 138 120 6 12 re f*
+.941176 .972549 1 rg
+n 150 120 24 12 re f*
+.941176 .972549 1 rg
+n 174 120 6 12 re f*
+.941176 .972549 1 rg
+n 186 120 42 12 re f*
+.941176 .972549 1 rg
+n 228 120 6 12 re f*
+.941176 .972549 1 rg
+n 234 120 6 12 re f*
+.941176 .972549 1 rg
+n 240 120 6 12 re f*
+.941176 .972549 1 rg
+n 252 120 24 12 re f*
+.941176 .972549 1 rg
+n 276 120 6 12 re f*
+.941176 .972549 1 rg
+n 282 120 108 12 re f*
+.941176 .972549 1 rg
+n 390 120 6 12 re f*
+.941176 .972549 1 rg
+n 396 120 0 12 re f*
+.941176 .972549 1 rg
+n 0 108 36 12 re f*
+.941176 .972549 1 rg
+n 36 108 6 12 re f*
+.941176 .972549 1 rg
+n 42 108 48 12 re f*
+.941176 .972549 1 rg
+n 90 108 6 12 re f*
+.941176 .972549 1 rg
+n 96 108 42 12 re f*
+.941176 .972549 1 rg
+n 138 108 6 12 re f*
+.941176 .972549 1 rg
+n 150 108 30 12 re f*
+.941176 .972549 1 rg
+n 180 108 12 12 re f*
+.941176 .972549 1 rg
+n 192 108 6 12 re f*
+.941176 .972549 1 rg
+n 198 108 6 12 re f*
+.941176 .972549 1 rg
+n 204 108 0 12 re f*
+.941176 .972549 1 rg
+n 0 96 18 12 re f*
+.941176 .972549 1 rg
+n 24 96 30 12 re f*
+.941176 .972549 1 rg
+n 54 96 6 12 re f*
+.941176 .972549 1 rg
+n 60 96 42 12 re f*
+.941176 .972549 1 rg
+n 102 96 6 12 re f*
+.941176 .972549 1 rg
+n 114 96 30 12 re f*
+.941176 .972549 1 rg
+n 144 96 6 12 re f*
+.941176 .972549 1 rg
+n 156 96 30 12 re f*
+.941176 .972549 1 rg
+n 186 96 12 12 re f*
+.941176 .972549 1 rg
+n 198 96 0 12 re f*
+.941176 .972549 1 rg
+n 0 84 24 12 re f*
+.941176 .972549 1 rg
+n 24 84 246 12 re f*
+.941176 .972549 1 rg
+n 270 84 0 12 re f*
+.941176 .972549 1 rg
+n 0 72 0 12 re f*
+.941176 .972549 1 rg
+n 24 60 12 12 re f*
+.941176 .972549 1 rg
+n 42 60 42 12 re f*
+.941176 .972549 1 rg
+n 84 60 6 12 re f*
+.941176 .972549 1 rg
+n 90 60 0 12 re f*
+.941176 .972549 1 rg
+n 48 48 30 12 re f*
+.941176 .972549 1 rg
+n 78 48 6 12 re f*
+.941176 .972549 1 rg
+n 84 48 30 12 re f*
+.941176 .972549 1 rg
+n 114 48 6 12 re f*
+.941176 .972549 1 rg
+n 120 48 54 12 re f*
+.941176 .972549 1 rg
+n 174 48 6 12 re f*
+.941176 .972549 1 rg
+n 186 48 12 12 re f*
+.941176 .972549 1 rg
+n 198 48 6 12 re f*
+.941176 .972549 1 rg
+n 204 48 42 12 re f*
+.941176 .972549 1 rg
+n 246 48 6 12 re f*
+.941176 .972549 1 rg
+n 252 48 0 12 re f*
+.941176 .972549 1 rg
+n 24 36 30 12 re f*
+.941176 .972549 1 rg
+n 54 36 6 12 re f*
+.941176 .972549 1 rg
+n 60 36 24 12 re f*
+.941176 .972549 1 rg
+n 84 36 6 12 re f*
+.941176 .972549 1 rg
+n 90 36 30 12 re f*
+.941176 .972549 1 rg
+n 126 36 6 12 re f*
+.941176 .972549 1 rg
+n 138 36 6 12 re f*
+.941176 .972549 1 rg
+n 144 36 42 12 re f*
+.941176 .972549 1 rg
+n 186 36 6 12 re f*
+.941176 .972549 1 rg
+n 192 36 24 12 re f*
+.941176 .972549 1 rg
+n 216 36 6 12 re f*
+.941176 .972549 1 rg
+n 222 36 24 12 re f*
+.941176 .972549 1 rg
+n 246 36 6 12 re f*
+.941176 .972549 1 rg
+n 252 36 24 12 re f*
+.941176 .972549 1 rg
+n 276 36 6 12 re f*
+.941176 .972549 1 rg
+n 282 36 18 12 re f*
+.941176 .972549 1 rg
+n 300 36 6 12 re f*
+.941176 .972549 1 rg
+n 306 36 24 12 re f*
+.941176 .972549 1 rg
+n 330 36 6 12 re f*
+.941176 .972549 1 rg
+n 336 36 12 12 re f*
+.941176 .972549 1 rg
+n 348 36 6 12 re f*
+.941176 .972549 1 rg
+n 354 36 30 12 re f*
+.941176 .972549 1 rg
+n 384 36 6 12 re f*
+.941176 .972549 1 rg
+n 390 36 6 12 re f*
+.941176 .972549 1 rg
+n 396 36 18 12 re f*
+.941176 .972549 1 rg
+n 414 36 6 12 re f*
+.941176 .972549 1 rg
+n 420 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 12 12 re f*
+.941176 .972549 1 rg
+n 18 12 48 12 re f*
+.941176 .972549 1 rg
+n 72 12 12 12 re f*
+.941176 .972549 1 rg
+n 90 12 60 12 re f*
+.941176 .972549 1 rg
+n 150 12 6 12 re f*
+.941176 .972549 1 rg
+n 156 12 0 12 re f*
+.941176 .972549 1 rg
+n 24 0 30 12 re f*
+.941176 .972549 1 rg
+n 54 0 6 12 re f*
+.941176 .972549 1 rg
+n 60 0 108 12 re f*
+.941176 .972549 1 rg
+n 168 0 6 12 re f*
+.941176 .972549 1 rg
+n 174 0 42 12 re f*
+.941176 .972549 1 rg
+n 216 0 6 12 re f*
+.941176 .972549 1 rg
+n 222 0 0 12 re f*
+BT 1 0 0 1 0 194 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (#! /usr/bin/env python3) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (click) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* .666667 .133333 1 rg (@click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (command) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* .666667 .133333 1 rg (@click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (option) Tj (\() Tj .729412 .129412 .129412 rg ("--verbose/--no-verbose") Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("-v") Tj 0 0 0 rg (,) Tj ( ) Tj (default) Tj .4 .4 .4 rg (=) Tj /F6 10 Tf 0 .501961 0 rg (False) Tj /F3 10 Tf 0 0 0 rg (,) Tj ( ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("mehr ausgeben") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* .666667 .133333 1 rg (@click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (option) Tj (\() Tj .729412 .129412 .129412 rg ("--count") Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("-c") Tj 0 0 0 rg (,) Tj ( ) Tj (default) Tj .4 .4 .4 rg (=) Tj (1) Tj 0 0 0 rg (,) Tj ( ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Anzahl der Gr\374\337e") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* .666667 .133333 1 rg (@click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (argument) Tj (\() Tj .729412 .129412 .129412 rg ("names") Tj 0 0 0 rg (,) Tj ( ) Tj (nargs) Tj .4 .4 .4 rg (=-) Tj (1) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (greet) Tj 0 0 0 rg (\() Tj (verbose) Tj (,) Tj ( ) Tj (count) Tj (,) Tj ( ) Tj (names) Tj (\):) Tj .733333 .733333 .733333 rg  T* (    ) Tj /F5 10 Tf .729412 .129412 .129412 rg ("""Ein gru\337freudiges Beispielprogramm.""") Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (verbose) Tj (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj (click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (secho) Tj (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (,) Tj ( ) Tj (fg) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("green") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (click) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (echo) Tj (\() Tj (count) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg (f) Tj ("Hallo ) Tj /F6 10 Tf .733333 .4 .533333 rg ({) Tj /F3 10 Tf .729412 .129412 .129412 rg (', ') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (names) Tj (\)) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg (! ") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .098039 .090196 .486275 rg (__name__) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('__main__') Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (greet) Tj (\() Tj (auto_envvar_prefix) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("PYDDF") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 257.1297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(siehe auch hhufw\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 227.1297 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Vorteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 215.1297 cm
+Q
+q
+1 0 0 1 57.02362 215.1297 cm
+Q
+q
+1 0 0 1 57.02362 203.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Click arbeitet nicht nur als Parser, sondern auch als Dispatcher) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 197.1297 cm
+Q
+q
+1 0 0 1 57.02362 185.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (beliebige Verschachtelung von Unterkommandos \205) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 179.1297 cm
+Q
+q
+1 0 0 1 57.02362 167.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\205 mit der M\366glichkeit, Routinen dynamisch nachzuladen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 161.1297 cm
+Q
+q
+1 0 0 1 57.02362 149.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mehrere eigene n\374tzliche Datentypen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 143.1297 cm
+Q
+q
+1 0 0 1 57.02362 131.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gro\337er Funktionsumfang) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 125.1297 cm
+Q
+q
+1 0 0 1 57.02362 113.1297 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (einfache Shell-Autocompletion) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 107.1297 cm
+Q
+q
+1 0 0 1 57.02362 95.12972 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (eigener REPL ist m\366glich) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 89.12972 cm
+Q
+q
+1 0 0 1 57.02362 77.12972 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (weit verbreitet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 71.12972 cm
+Q
+ 
+endstream
+endobj
+56 0 obj
+<<
+/Length 12670
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 753.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mittlerweile gibt es viele Erweiterungen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 753.0236 cm
+Q
+q
+1 0 0 1 57.02362 723.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Nachteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+Q
+q
+1 0 0 1 57.02362 699.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (die dekorierten Funktionen sind nicht mehr \204normal\223 aufrufbar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 693.0236 cm
+Q
+q
+1 0 0 1 57.02362 681.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Decorators m\374ssen nicht mit den Argumenten der Funktion \374bereinstimmen ) Tj /F4 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( dann gibt\222s Probleme) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 675.0236 cm
+Q
+q
+1 0 0 1 57.02362 663.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Defaults gehen nicht automatisch in die Hilfetexte ein) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 657.0236 cm
+Q
+q
+1 0 0 1 57.02362 645.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Subkommando und seine Gruppe m\374ssen \374ber den etwas unhandlichen Kontext kommunizieren) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 639.0236 cm
+Q
+q
+1 0 0 1 57.02362 627.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (keine Typenkontrolle) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 621.0236 cm
+Q
+q
+1 0 0 1 57.02362 609.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (alle Click-Typen benutzen dasselbe un\374bersichtliche Interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 609.0236 cm
+Q
+q
+1 0 0 1 57.02362 576.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (cyclopts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 546.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 252 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 228 138 12 re f*
+.941176 .972549 1 rg
+n 138 228 0 12 re f*
+.941176 .972549 1 rg
+n 0 216 36 12 re f*
+.941176 .972549 1 rg
+n 42 216 48 12 re f*
+.941176 .972549 1 rg
+n 90 216 0 12 re f*
+.941176 .972549 1 rg
+n 0 204 0 12 re f*
+.941176 .972549 1 rg
+n 0 192 18 12 re f*
+.941176 .972549 1 rg
+n 24 192 6 12 re f*
+.941176 .972549 1 rg
+n 36 192 48 12 re f*
+.941176 .972549 1 rg
+n 84 192 6 12 re f*
+.941176 .972549 1 rg
+n 90 192 18 12 re f*
+.941176 .972549 1 rg
+n 108 192 12 12 re f*
+.941176 .972549 1 rg
+n 120 192 0 12 re f*
+.941176 .972549 1 rg
+n 0 180 0 12 re f*
+.941176 .972549 1 rg
+n 0 168 24 12 re f*
+.941176 .972549 1 rg
+n 24 168 6 12 re f*
+.941176 .972549 1 rg
+n 30 168 42 12 re f*
+.941176 .972549 1 rg
+n 72 168 0 12 re f*
+.941176 .972549 1 rg
+n 0 156 18 12 re f*
+.941176 .972549 1 rg
+n 24 156 30 12 re f*
+.941176 .972549 1 rg
+n 54 156 6 12 re f*
+.941176 .972549 1 rg
+n 60 156 30 12 re f*
+.941176 .972549 1 rg
+n 90 156 6 12 re f*
+.941176 .972549 1 rg
+n 102 156 24 12 re f*
+.941176 .972549 1 rg
+n 126 156 6 12 re f*
+.941176 .972549 1 rg
+n 132 156 18 12 re f*
+.941176 .972549 1 rg
+n 150 156 12 12 re f*
+.941176 .972549 1 rg
+n 168 156 6 12 re f*
+.941176 .972549 1 rg
+n 174 156 6 12 re f*
+.941176 .972549 1 rg
+n 186 156 30 12 re f*
+.941176 .972549 1 rg
+n 216 156 6 12 re f*
+.941176 .972549 1 rg
+n 228 156 18 12 re f*
+.941176 .972549 1 rg
+n 252 156 6 12 re f*
+.941176 .972549 1 rg
+n 264 156 6 12 re f*
+.941176 .972549 1 rg
+n 270 156 6 12 re f*
+.941176 .972549 1 rg
+n 282 156 42 12 re f*
+.941176 .972549 1 rg
+n 324 156 6 12 re f*
+.941176 .972549 1 rg
+n 336 156 24 12 re f*
+.941176 .972549 1 rg
+n 366 156 6 12 re f*
+.941176 .972549 1 rg
+n 378 156 30 12 re f*
+.941176 .972549 1 rg
+n 408 156 6 12 re f*
+.941176 .972549 1 rg
+n 420 156 6 12 re f*
+.941176 .972549 1 rg
+n 426 156 6 12 re f*
+.941176 .972549 1 rg
+n 438 156 24 12 re f*
+.941176 .972549 1 rg
+n 462 156 6 12 re f*
+.941176 .972549 1 rg
+n 468 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 24 12 re f*
+.941176 .972549 1 rg
+n 24 144 288 12 re f*
+.941176 .972549 1 rg
+n 0 132 0 12 re f*
+.941176 .972549 1 rg
+n 0 120 54 12 re f*
+.941176 .972549 1 rg
+n 0 108 180 12 re f*
+.941176 .972549 1 rg
+n 0 96 186 12 re f*
+.941176 .972549 1 rg
+n 0 84 210 12 re f*
+.941176 .972549 1 rg
+n 0 72 42 12 re f*
+.941176 .972549 1 rg
+n 42 72 0 12 re f*
+.941176 .972549 1 rg
+n 24 60 12 12 re f*
+.941176 .972549 1 rg
+n 42 60 42 12 re f*
+.941176 .972549 1 rg
+n 84 60 6 12 re f*
+.941176 .972549 1 rg
+n 90 60 0 12 re f*
+.941176 .972549 1 rg
+n 48 48 30 12 re f*
+.941176 .972549 1 rg
+n 78 48 6 12 re f*
+.941176 .972549 1 rg
+n 84 48 54 12 re f*
+.941176 .972549 1 rg
+n 138 48 6 12 re f*
+.941176 .972549 1 rg
+n 144 48 0 12 re f*
+.941176 .972549 1 rg
+n 24 36 30 12 re f*
+.941176 .972549 1 rg
+n 54 36 6 12 re f*
+.941176 .972549 1 rg
+n 60 36 30 12 re f*
+.941176 .972549 1 rg
+n 96 36 6 12 re f*
+.941176 .972549 1 rg
+n 108 36 6 12 re f*
+.941176 .972549 1 rg
+n 114 36 42 12 re f*
+.941176 .972549 1 rg
+n 156 36 6 12 re f*
+.941176 .972549 1 rg
+n 162 36 24 12 re f*
+.941176 .972549 1 rg
+n 186 36 6 12 re f*
+.941176 .972549 1 rg
+n 192 36 24 12 re f*
+.941176 .972549 1 rg
+n 216 36 6 12 re f*
+.941176 .972549 1 rg
+n 222 36 24 12 re f*
+.941176 .972549 1 rg
+n 246 36 6 12 re f*
+.941176 .972549 1 rg
+n 252 36 18 12 re f*
+.941176 .972549 1 rg
+n 270 36 6 12 re f*
+.941176 .972549 1 rg
+n 276 36 24 12 re f*
+.941176 .972549 1 rg
+n 300 36 6 12 re f*
+.941176 .972549 1 rg
+n 306 36 12 12 re f*
+.941176 .972549 1 rg
+n 318 36 6 12 re f*
+.941176 .972549 1 rg
+n 324 36 30 12 re f*
+.941176 .972549 1 rg
+n 354 36 6 12 re f*
+.941176 .972549 1 rg
+n 360 36 6 12 re f*
+.941176 .972549 1 rg
+n 366 36 18 12 re f*
+.941176 .972549 1 rg
+n 384 36 6 12 re f*
+.941176 .972549 1 rg
+n 390 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 12 12 re f*
+.941176 .972549 1 rg
+n 18 12 48 12 re f*
+.941176 .972549 1 rg
+n 72 12 12 12 re f*
+.941176 .972549 1 rg
+n 90 12 60 12 re f*
+.941176 .972549 1 rg
+n 150 12 6 12 re f*
+.941176 .972549 1 rg
+n 156 12 0 12 re f*
+.941176 .972549 1 rg
+n 24 0 18 12 re f*
+.941176 .972549 1 rg
+n 42 0 12 12 re f*
+.941176 .972549 1 rg
+n 54 0 0 12 re f*
+BT 1 0 0 1 0 230 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (#! /usr/bin/env python3) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (cyclopts) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (app) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (cyclopts) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (App) Tj (\(\)) Tj .733333 .733333 .733333 rg  T*  T* .666667 .133333 1 rg (@app) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (default) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (greet) Tj 0 0 0 rg (\() Tj (names) Tj (:) Tj ( ) Tj 0 .501961 0 rg (list) Tj 0 0 0 rg ([) Tj 0 .501961 0 rg (str) Tj 0 0 0 rg (],) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (,) Tj ( ) Tj (count) Tj (:) Tj ( ) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (,) Tj ( ) Tj (verbose) Tj (:) Tj ( ) Tj 0 .501961 0 rg (bool) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (False) Tj /F3 10 Tf 0 0 0 rg (\)) Tj ( ) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (None) Tj /F3 10 Tf 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* (    ) Tj /F5 10 Tf .729412 .129412 .129412 rg ("""Begr\374\337e verschiedene Personen, auch mehrfach.) Tj T*  T* (    Args:) Tj T* (        names: Liste der Namen) Tj T* (        count: Anzahl der Gr\374\337e) Tj T* (        verbose: Umfang der Ausgabe) Tj T* (    """) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (verbose) Tj (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (count) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg (f) Tj ("Hallo ) Tj /F6 10 Tf .733333 .4 .533333 rg ({) Tj /F3 10 Tf .729412 .129412 .129412 rg (', ') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (names) Tj (\)) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg (! ") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .098039 .090196 .486275 rg (__name__) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("__main__") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (app) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 254.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Vorteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 242.8236 cm
+Q
+q
+1 0 0 1 57.02362 242.8236 cm
+Q
+q
+1 0 0 1 57.02362 218.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.060832 Tw (Type annotations k\366nnen zugleich f\374rs CLI genutzt werden \226 bei Adhoc-Skripts \(mit Typen\) ist praktisch) Tj T* 0 Tw (kein Mehraufwand erforderlich) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 212.8236 cm
+Q
+q
+1 0 0 1 57.02362 188.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .390696 Tw (Das Paket Typer ist f\374r diese Vorgehensweise das bekannteste; die cyclopts-Eigenwerbung sagt aber:) Tj T* 0 Tw (\204Cyclopts is what you thought Typer was.\223) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 182.8236 cm
+Q
+q
+1 0 0 1 57.02362 170.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Hilfetexte k\366nnen ohne ) Tj /F3 10 Tf (Annotated) Tj /F1 10 Tf ( per Docstring angegeben werden) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 164.8236 cm
+Q
+q
+1 0 0 1 57.02362 152.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gute Doku) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 146.8236 cm
+Q
+q
+1 0 0 1 57.02362 134.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (setzt \(im Unterschied zu Typer\) nicht auf Click auf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 134.8236 cm
+Q
+q
+1 0 0 1 57.02362 104.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Nachteile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 92.82362 cm
+Q
+q
+1 0 0 1 57.02362 92.82362 cm
+Q
+q
+1 0 0 1 57.02362 80.82362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Die Annotations werden etwas aufwendiger, wenn man Sonderw\374nsche hat:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+endstream
+endobj
+57 0 obj
+<<
+/Length 11303
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 677.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 74.2 Tm  T* ET
+q
+1 0 0 1 23 35 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 454.0283 48 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 24 30 12 re f*
+.941176 .972549 1 rg
+n 30 24 6 12 re f*
+.941176 .972549 1 rg
+n 42 24 54 12 re f*
+.941176 .972549 1 rg
+n 96 24 6 12 re f*
+.941176 .972549 1 rg
+n 102 24 18 12 re f*
+.941176 .972549 1 rg
+n 120 24 6 12 re f*
+.941176 .972549 1 rg
+n 132 24 48 12 re f*
+.941176 .972549 1 rg
+n 180 24 6 12 re f*
+.941176 .972549 1 rg
+n 186 24 54 12 re f*
+.941176 .972549 1 rg
+n 240 24 6 12 re f*
+.941176 .972549 1 rg
+n 246 24 0 12 re f*
+.941176 .972549 1 rg
+n 30 12 24 12 re f*
+.941176 .972549 1 rg
+n 54 12 6 12 re f*
+.941176 .972549 1 rg
+n 60 12 6 12 re f*
+.941176 .972549 1 rg
+n 66 12 54 12 re f*
+.941176 .972549 1 rg
+n 120 12 6 12 re f*
+.941176 .972549 1 rg
+n 132 12 24 12 re f*
+.941176 .972549 1 rg
+n 156 12 12 12 re f*
+.941176 .972549 1 rg
+n 168 12 0 12 re f*
+.941176 .972549 1 rg
+n 30 0 24 12 re f*
+.941176 .972549 1 rg
+n 54 0 6 12 re f*
+.941176 .972549 1 rg
+n 60 0 108 12 re f*
+.941176 .972549 1 rg
+n 168 0 12 12 re f*
+.941176 .972549 1 rg
+n 186 0 6 12 re f*
+.941176 .972549 1 rg
+n 198 0 6 12 re f*
+.941176 .972549 1 rg
+n 204 0 6 12 re f*
+.941176 .972549 1 rg
+n 210 0 0 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 0 rg (count) Tj (:) Tj ( ) Tj (Annotated) Tj ([) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg (,) Tj ( ) Tj (cyclopts) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Parameter) Tj (\() Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (     ) Tj (name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("--count") Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("-c") Tj 0 0 0 rg (\),) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (     ) Tj (help) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Anzahl der Gr\374\337e") Tj 0 0 0 rg (\)]) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .578031 Tw (Daf\374r k\366nnen allerdings die entsprechenden Docstrings entfallen, und zus\344tzlich sind bspw. Konverter) Tj T* 0 Tw (und Validierer m\366glich.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 677.8236 cm
+Q
+q
+1 0 0 1 57.02362 644.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (tyro & Co.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 614.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Abbildung von CLI-Argumenten auf Datenstrukturen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.8236 cm
+Q
+q
+1 0 0 1 57.02362 602.8236 cm
+Q
+q
+1 0 0 1 57.02362 578.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .915835 Tw 12 TL /F1 10 Tf 0 0 0 rg (Typisierte Datenstrukturen \(dataclass, attrs, pydantic\) sind \344quivalent zu Funktionssignaturen \(f\374r das) Tj T* 0 Tw /F3 10 Tf (__init__\(\)) Tj /F1 10 Tf (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 572.8236 cm
+Q
+q
+1 0 0 1 57.02362 560.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sie k\366nnen also ebenso auf ein CLI abgebildet werden) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 554.8236 cm
+Q
+q
+1 0 0 1 57.02362 542.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Beispiele: ) Tj /F7 10 Tf (cappa) Tj /F1 10 Tf (, ) Tj /F7 10 Tf (tyro) Tj /F1 10 Tf (, ) Tj /F7 10 Tf (jsonargparse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 536.8236 cm
+Q
+q
+1 0 0 1 57.02362 512.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.049029 Tw 12 TL /F7 10 Tf 0 0 0 rg (Tyro) Tj /F1 10 Tf ( und ) Tj /F7 10 Tf (jsonargparse) Tj /F1 10 Tf ( k\366nnen das CLI sowohl aus Signaturen als auch aus Datenstrukturen) Tj T* 0 Tw (generieren) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 506.8236 cm
+Q
+q
+1 0 0 1 57.02362 494.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integration mit Konfig-Dateien ist teilweise m\366glich) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 488.8236 cm
+Q
+q
+1 0 0 1 57.02362 476.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Welches dieser Tools ist das beste? Es kommt drauf an ;-\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 476.8236 cm
+Q
+q
+1 0 0 1 57.02362 446.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel mit Funktionsargumenten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 221.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 216 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 192 138 12 re f*
+.941176 .972549 1 rg
+n 138 192 0 12 re f*
+.941176 .972549 1 rg
+n 0 180 0 12 re f*
+.941176 .972549 1 rg
+n 0 168 36 12 re f*
+.941176 .972549 1 rg
+n 42 168 24 12 re f*
+.941176 .972549 1 rg
+n 66 168 0 12 re f*
+.941176 .972549 1 rg
+n 0 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 18 12 re f*
+.941176 .972549 1 rg
+n 24 144 30 12 re f*
+.941176 .972549 1 rg
+n 54 144 6 12 re f*
+.941176 .972549 1 rg
+n 60 144 30 12 re f*
+.941176 .972549 1 rg
+n 90 144 6 12 re f*
+.941176 .972549 1 rg
+n 102 144 24 12 re f*
+.941176 .972549 1 rg
+n 126 144 6 12 re f*
+.941176 .972549 1 rg
+n 132 144 18 12 re f*
+.941176 .972549 1 rg
+n 150 144 12 12 re f*
+.941176 .972549 1 rg
+n 168 144 6 12 re f*
+.941176 .972549 1 rg
+n 174 144 6 12 re f*
+.941176 .972549 1 rg
+n 186 144 42 12 re f*
+.941176 .972549 1 rg
+n 228 144 6 12 re f*
+.941176 .972549 1 rg
+n 240 144 24 12 re f*
+.941176 .972549 1 rg
+n 270 144 6 12 re f*
+.941176 .972549 1 rg
+n 282 144 30 12 re f*
+.941176 .972549 1 rg
+n 312 144 6 12 re f*
+.941176 .972549 1 rg
+n 324 144 30 12 re f*
+.941176 .972549 1 rg
+n 354 144 6 12 re f*
+.941176 .972549 1 rg
+n 366 144 18 12 re f*
+.941176 .972549 1 rg
+n 390 144 6 12 re f*
+.941176 .972549 1 rg
+n 402 144 6 12 re f*
+.941176 .972549 1 rg
+n 408 144 6 12 re f*
+.941176 .972549 1 rg
+n 420 144 6 12 re f*
+.941176 .972549 1 rg
+n 426 144 6 12 re f*
+.941176 .972549 1 rg
+n 438 144 24 12 re f*
+.941176 .972549 1 rg
+n 462 144 6 12 re f*
+.941176 .972549 1 rg
+n 468 144 0 12 re f*
+.941176 .972549 1 rg
+n 0 132 24 12 re f*
+.941176 .972549 1 rg
+n 24 132 276 12 re f*
+.941176 .972549 1 rg
+n 0 120 0 12 re f*
+.941176 .972549 1 rg
+n 0 108 54 12 re f*
+.941176 .972549 1 rg
+n 0 96 180 12 re f*
+.941176 .972549 1 rg
+n 0 84 210 12 re f*
+.941176 .972549 1 rg
+n 0 72 186 12 re f*
+.941176 .972549 1 rg
+n 0 60 42 12 re f*
+.941176 .972549 1 rg
+n 42 60 0 12 re f*
+.941176 .972549 1 rg
+n 24 48 12 12 re f*
+.941176 .972549 1 rg
+n 42 48 42 12 re f*
+.941176 .972549 1 rg
+n 84 48 6 12 re f*
+.941176 .972549 1 rg
+n 90 48 0 12 re f*
+.941176 .972549 1 rg
+n 48 36 30 12 re f*
+.941176 .972549 1 rg
+n 78 36 6 12 re f*
+.941176 .972549 1 rg
+n 84 36 54 12 re f*
+.941176 .972549 1 rg
+n 138 36 6 12 re f*
+.941176 .972549 1 rg
+n 144 36 0 12 re f*
+.941176 .972549 1 rg
+n 24 24 30 12 re f*
+.941176 .972549 1 rg
+n 54 24 6 12 re f*
+.941176 .972549 1 rg
+n 60 24 30 12 re f*
+.941176 .972549 1 rg
+n 96 24 6 12 re f*
+.941176 .972549 1 rg
+n 108 24 6 12 re f*
+.941176 .972549 1 rg
+n 114 24 42 12 re f*
+.941176 .972549 1 rg
+n 156 24 6 12 re f*
+.941176 .972549 1 rg
+n 162 24 24 12 re f*
+.941176 .972549 1 rg
+n 186 24 6 12 re f*
+.941176 .972549 1 rg
+n 192 24 24 12 re f*
+.941176 .972549 1 rg
+n 216 24 6 12 re f*
+.941176 .972549 1 rg
+n 222 24 24 12 re f*
+.941176 .972549 1 rg
+n 246 24 6 12 re f*
+.941176 .972549 1 rg
+n 252 24 18 12 re f*
+.941176 .972549 1 rg
+n 270 24 6 12 re f*
+.941176 .972549 1 rg
+n 276 24 24 12 re f*
+.941176 .972549 1 rg
+n 300 24 6 12 re f*
+.941176 .972549 1 rg
+n 306 24 12 12 re f*
+.941176 .972549 1 rg
+n 318 24 6 12 re f*
+.941176 .972549 1 rg
+n 324 24 30 12 re f*
+.941176 .972549 1 rg
+n 354 24 6 12 re f*
+.941176 .972549 1 rg
+n 360 24 6 12 re f*
+.941176 .972549 1 rg
+n 366 24 18 12 re f*
+.941176 .972549 1 rg
+n 384 24 6 12 re f*
+.941176 .972549 1 rg
+n 390 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 0 12 re f*
+.941176 .972549 1 rg
+n 0 0 24 12 re f*
+.941176 .972549 1 rg
+n 24 0 6 12 re f*
+.941176 .972549 1 rg
+n 30 0 18 12 re f*
+.941176 .972549 1 rg
+n 48 0 6 12 re f*
+.941176 .972549 1 rg
+n 54 0 30 12 re f*
+.941176 .972549 1 rg
+n 84 0 6 12 re f*
+.941176 .972549 1 rg
+n 90 0 0 12 re f*
+BT 1 0 0 1 0 194 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (#! /usr/bin/env python3) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (tyro) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (greet) Tj 0 0 0 rg (\() Tj (names) Tj (:) Tj ( ) Tj 0 .501961 0 rg (list) Tj 0 0 0 rg ([) Tj 0 .501961 0 rg (str) Tj 0 0 0 rg (],) Tj ( ) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (,) Tj ( ) Tj (verbose) Tj (:) Tj ( ) Tj 0 .501961 0 rg (bool) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (False) Tj /F3 10 Tf 0 0 0 rg (,) Tj ( ) Tj (count) Tj (:) Tj ( ) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (None) Tj /F3 10 Tf 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* (    ) Tj /F5 10 Tf .729412 .129412 .129412 rg ("""Begr\374\337t die genannten Leute, auch mehrfach.) Tj T*  T* (    Args:) Tj T* (        names: Liste der Namen) Tj T* (        verbose: Umfang der Ausgabe) Tj T* (        count: Anzahl der Gr\374\337e) Tj T* (    """) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (verbose) Tj (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (count) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg (f) Tj ("Hallo ) Tj /F6 10 Tf .733333 .4 .533333 rg ({) Tj /F3 10 Tf .729412 .129412 .129412 rg (', ') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (names) Tj (\)) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg (! ") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (tyro) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (cli) Tj (\() Tj (greet) Tj (\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+58 0 obj
+<<
+/Length 12164
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Beispiel mit Dataclass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 312 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 288 24 12 re f*
+.941176 .972549 1 rg
+n 30 288 30 12 re f*
+.941176 .972549 1 rg
+n 66 288 36 12 re f*
+.941176 .972549 1 rg
+n 108 288 36 12 re f*
+.941176 .972549 1 rg
+n 144 288 0 12 re f*
+.941176 .972549 1 rg
+n 0 276 36 12 re f*
+.941176 .972549 1 rg
+n 42 276 24 12 re f*
+.941176 .972549 1 rg
+n 66 276 0 12 re f*
+.941176 .972549 1 rg
+n 0 264 0 12 re f*
+.941176 .972549 1 rg
+n 0 252 42 12 re f*
+.941176 .972549 1 rg
+n 42 252 0 12 re f*
+.941176 .972549 1 rg
+n 0 240 30 12 re f*
+.941176 .972549 1 rg
+n 36 240 24 12 re f*
+.941176 .972549 1 rg
+n 60 240 6 12 re f*
+.941176 .972549 1 rg
+n 66 240 0 12 re f*
+.941176 .972549 1 rg
+n 24 228 174 12 re f*
+.941176 .972549 1 rg
+n 198 228 0 12 re f*
+.941176 .972549 1 rg
+n 0 216 0 12 re f*
+.941176 .972549 1 rg
+n 24 204 102 12 re f*
+.941176 .972549 1 rg
+n 126 204 0 12 re f*
+.941176 .972549 1 rg
+n 24 192 30 12 re f*
+.941176 .972549 1 rg
+n 54 192 6 12 re f*
+.941176 .972549 1 rg
+n 66 192 24 12 re f*
+.941176 .972549 1 rg
+n 90 192 6 12 re f*
+.941176 .972549 1 rg
+n 96 192 24 12 re f*
+.941176 .972549 1 rg
+n 120 192 6 12 re f*
+.941176 .972549 1 rg
+n 126 192 60 12 re f*
+.941176 .972549 1 rg
+n 186 192 6 12 re f*
+.941176 .972549 1 rg
+n 192 192 24 12 re f*
+.941176 .972549 1 rg
+n 216 192 6 12 re f*
+.941176 .972549 1 rg
+n 222 192 18 12 re f*
+.941176 .972549 1 rg
+n 240 192 12 12 re f*
+.941176 .972549 1 rg
+n 252 192 0 12 re f*
+.941176 .972549 1 rg
+n 0 180 0 12 re f*
+.941176 .972549 1 rg
+n 24 168 120 12 re f*
+.941176 .972549 1 rg
+n 144 168 0 12 re f*
+.941176 .972549 1 rg
+n 24 156 42 12 re f*
+.941176 .972549 1 rg
+n 66 156 6 12 re f*
+.941176 .972549 1 rg
+n 78 156 24 12 re f*
+.941176 .972549 1 rg
+n 108 156 6 12 re f*
+.941176 .972549 1 rg
+n 120 156 30 12 re f*
+.941176 .972549 1 rg
+n 150 156 0 12 re f*
+.941176 .972549 1 rg
+n 0 144 0 12 re f*
+.941176 .972549 1 rg
+n 24 132 108 12 re f*
+.941176 .972549 1 rg
+n 132 132 0 12 re f*
+.941176 .972549 1 rg
+n 24 120 30 12 re f*
+.941176 .972549 1 rg
+n 54 120 6 12 re f*
+.941176 .972549 1 rg
+n 66 120 18 12 re f*
+.941176 .972549 1 rg
+n 90 120 6 12 re f*
+.941176 .972549 1 rg
+n 102 120 6 12 re f*
+.941176 .972549 1 rg
+n 108 120 0 12 re f*
+.941176 .972549 1 rg
+n 0 108 0 12 re f*
+.941176 .972549 1 rg
+n 0 96 18 12 re f*
+.941176 .972549 1 rg
+n 24 96 30 12 re f*
+.941176 .972549 1 rg
+n 54 96 6 12 re f*
+.941176 .972549 1 rg
+n 60 96 24 12 re f*
+.941176 .972549 1 rg
+n 84 96 6 12 re f*
+.941176 .972549 1 rg
+n 96 96 24 12 re f*
+.941176 .972549 1 rg
+n 120 96 6 12 re f*
+.941176 .972549 1 rg
+n 132 96 6 12 re f*
+.941176 .972549 1 rg
+n 138 96 6 12 re f*
+.941176 .972549 1 rg
+n 150 96 24 12 re f*
+.941176 .972549 1 rg
+n 174 96 6 12 re f*
+.941176 .972549 1 rg
+n 180 96 0 12 re f*
+.941176 .972549 1 rg
+n 0 84 24 12 re f*
+.941176 .972549 1 rg
+n 24 84 294 12 re f*
+.941176 .972549 1 rg
+n 318 84 0 12 re f*
+.941176 .972549 1 rg
+n 24 72 12 12 re f*
+.941176 .972549 1 rg
+n 42 72 24 12 re f*
+.941176 .972549 1 rg
+n 66 72 6 12 re f*
+.941176 .972549 1 rg
+n 72 72 42 12 re f*
+.941176 .972549 1 rg
+n 114 72 6 12 re f*
+.941176 .972549 1 rg
+n 120 72 0 12 re f*
+.941176 .972549 1 rg
+n 48 60 30 12 re f*
+.941176 .972549 1 rg
+n 78 60 6 12 re f*
+.941176 .972549 1 rg
+n 84 60 54 12 re f*
+.941176 .972549 1 rg
+n 138 60 6 12 re f*
+.941176 .972549 1 rg
+n 144 60 0 12 re f*
+.941176 .972549 1 rg
+n 24 48 30 12 re f*
+.941176 .972549 1 rg
+n 54 48 6 12 re f*
+.941176 .972549 1 rg
+n 60 48 24 12 re f*
+.941176 .972549 1 rg
+n 84 48 6 12 re f*
+.941176 .972549 1 rg
+n 90 48 30 12 re f*
+.941176 .972549 1 rg
+n 126 48 6 12 re f*
+.941176 .972549 1 rg
+n 138 48 6 12 re f*
+.941176 .972549 1 rg
+n 144 48 42 12 re f*
+.941176 .972549 1 rg
+n 186 48 6 12 re f*
+.941176 .972549 1 rg
+n 192 48 24 12 re f*
+.941176 .972549 1 rg
+n 216 48 6 12 re f*
+.941176 .972549 1 rg
+n 222 48 24 12 re f*
+.941176 .972549 1 rg
+n 246 48 6 12 re f*
+.941176 .972549 1 rg
+n 252 48 24 12 re f*
+.941176 .972549 1 rg
+n 276 48 6 12 re f*
+.941176 .972549 1 rg
+n 282 48 18 12 re f*
+.941176 .972549 1 rg
+n 300 48 6 12 re f*
+.941176 .972549 1 rg
+n 306 48 24 12 re f*
+.941176 .972549 1 rg
+n 330 48 6 12 re f*
+.941176 .972549 1 rg
+n 336 48 12 12 re f*
+.941176 .972549 1 rg
+n 348 48 6 12 re f*
+.941176 .972549 1 rg
+n 354 48 24 12 re f*
+.941176 .972549 1 rg
+n 378 48 6 12 re f*
+.941176 .972549 1 rg
+n 384 48 30 12 re f*
+.941176 .972549 1 rg
+n 414 48 6 12 re f*
+.941176 .972549 1 rg
+n 420 48 6 12 re f*
+.941176 .972549 1 rg
+n 426 48 18 12 re f*
+.941176 .972549 1 rg
+n 444 48 6 12 re f*
+.941176 .972549 1 rg
+n 450 48 0 12 re f*
+.941176 .972549 1 rg
+n 0 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 12 12 re f*
+.941176 .972549 1 rg
+n 18 24 48 12 re f*
+.941176 .972549 1 rg
+n 72 24 12 12 re f*
+.941176 .972549 1 rg
+n 90 24 60 12 re f*
+.941176 .972549 1 rg
+n 150 24 6 12 re f*
+.941176 .972549 1 rg
+n 156 24 0 12 re f*
+.941176 .972549 1 rg
+n 24 12 24 12 re f*
+.941176 .972549 1 rg
+n 54 12 6 12 re f*
+.941176 .972549 1 rg
+n 66 12 24 12 re f*
+.941176 .972549 1 rg
+n 90 12 6 12 re f*
+.941176 .972549 1 rg
+n 96 12 18 12 re f*
+.941176 .972549 1 rg
+n 114 12 6 12 re f*
+.941176 .972549 1 rg
+n 120 12 24 12 re f*
+.941176 .972549 1 rg
+n 144 12 6 12 re f*
+.941176 .972549 1 rg
+n 150 12 0 12 re f*
+.941176 .972549 1 rg
+n 24 0 30 12 re f*
+.941176 .972549 1 rg
+n 54 0 6 12 re f*
+.941176 .972549 1 rg
+n 60 0 24 12 re f*
+.941176 .972549 1 rg
+n 84 0 6 12 re f*
+.941176 .972549 1 rg
+n 90 0 0 12 re f*
+BT 1 0 0 1 0 290 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (from) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (attrs) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (define) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (import) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (tyro) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* .666667 .133333 1 rg (@define) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (class) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf 0 0 1 rg (Args) Tj /F3 10 Tf 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj .729412 .129412 .129412 rg ("Begr\374\337ung mehrerer Personen") Tj .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (    ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Liste der Namen) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (names) Tj (:) Tj ( ) Tj (tyro) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (conf) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Positional) Tj ([) Tj 0 .501961 0 rg (list) Tj 0 0 0 rg ([) Tj 0 .501961 0 rg (str) Tj 0 0 0 rg (]]) Tj .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (    ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Umfang der Ausgabe) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (verbose) Tj (:) Tj ( ) Tj 0 .501961 0 rg (bool) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (False) Tj /F3 10 Tf .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (    ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Anzahl der Gr\374\337e) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (count) Tj (:) Tj ( ) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (greet) Tj 0 0 0 rg (\() Tj (args) Tj (:) Tj ( ) Tj (Args) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (None) Tj /F3 10 Tf 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* (    ) Tj /F5 10 Tf .729412 .129412 .129412 rg ("""Begr\374\337t die genannten Leute, auch mehrfach.""") Tj /F3 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (verbose) Tj (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (        ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("running") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (count) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg (f) Tj ("Hallo ) Tj /F6 10 Tf .733333 .4 .533333 rg ({) Tj /F3 10 Tf .729412 .129412 .129412 rg (', ') Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (name) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (names) Tj (\)) Tj /F6 10 Tf .733333 .4 .533333 rg (}) Tj /F3 10 Tf .729412 .129412 .129412 rg (! ") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T*  T* /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .098039 .090196 .486275 rg (__name__) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("__main__") Tj 0 0 0 rg (:) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (args) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (tyro) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (cli) Tj (\() Tj (Args) Tj (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (    ) Tj (greet) Tj (\() Tj (args) Tj (\)) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 392.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Zusammenfassung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 362.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Meine \(ganz subjektiven\) Favoriten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8236 cm
+Q
+q
+1 0 0 1 57.02362 350.8236 cm
+Q
+q
+1 0 0 1 57.02362 338.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Click: vielseitig, robust, allerdings etwas umst\344ndlich) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 332.8236 cm
+Q
+q
+1 0 0 1 57.02362 320.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cyclopts: wenn man mit Type annotations arbeiten mag) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 314.8236 cm
+Q
+q
+1 0 0 1 57.02362 290.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .021529 Tw (tyro, cappa oder jsonargparse w\344ren f\374r komplexe Datenstrukturen n\374tzlich \(Vorz\374ge / Schw\344chen sind) Tj T* 0 Tw (je nach Einsatzfall zu bewerten\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 290.8236 cm
+Q
+q
+1 0 0 1 57.02362 257.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Anhang) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 227.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 209.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (argparse: ) Tj 0 .4 .6 rg (https://docs.python.org/3/library/argparse.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 191.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Click: ) Tj 0 .4 .6 rg (https://click.palletsprojects.com/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 173.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Typer: ) Tj 0 .4 .6 rg (https://typer.tiangolo.com/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 155.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (cyclopts: ) Tj 0 .4 .6 rg (https://cyclopts.readthedocs.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 137.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (tyro: ) Tj 0 .4 .6 rg (https://brentyi.github.io/tyro/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 119.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (cappa: ) Tj 0 .4 .6 rg (https://cappa.readthedocs.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 101.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (jsonargparse: ) Tj 0 .4 .6 rg (https://jsonargparse.readthedocs.io/) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+59 0 obj
+<<
+/Nums [ 0 60 0 R 1 61 0 R 2 62 0 R 3 63 0 R 4 64 0 R 
+  5 65 0 R ]
+>>
+endobj
+60 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+61 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+62 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+63 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+64 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+65 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+xref
+0 66
+0000000000 65535 f 
+0000000073 00000 n 
+0000000168 00000 n 
+0000000275 00000 n 
+0000000384 00000 n 
+0000000489 00000 n 
+0000000566 00000 n 
+0000000771 00000 n 
+0000000884 00000 n 
+0000000994 00000 n 
+0000001199 00000 n 
+0000001405 00000 n 
+0000001611 00000 n 
+0000001727 00000 n 
+0000001933 00000 n 
+0000002133 00000 n 
+0000002320 00000 n 
+0000002500 00000 n 
+0000002685 00000 n 
+0000002869 00000 n 
+0000003051 00000 n 
+0000003240 00000 n 
+0000003507 00000 n 
+0000003613 00000 n 
+0000003906 00000 n 
+0000003981 00000 n 
+0000004132 00000 n 
+0000004253 00000 n 
+0000004421 00000 n 
+0000004540 00000 n 
+0000004701 00000 n 
+0000004810 00000 n 
+0000004920 00000 n 
+0000005081 00000 n 
+0000005190 00000 n 
+0000005312 00000 n 
+0000005423 00000 n 
+0000005582 00000 n 
+0000005692 00000 n 
+0000005815 00000 n 
+0000005926 00000 n 
+0000006088 00000 n 
+0000006198 00000 n 
+0000006321 00000 n 
+0000006432 00000 n 
+0000006596 00000 n 
+0000006746 00000 n 
+0000006893 00000 n 
+0000007017 00000 n 
+0000007186 00000 n 
+0000007311 00000 n 
+0000007458 00000 n 
+0000007552 00000 n 
+0000007646 00000 n 
+0000013953 00000 n 
+0000033543 00000 n 
+0000049017 00000 n 
+0000061740 00000 n 
+0000073096 00000 n 
+0000085313 00000 n 
+0000085402 00000 n 
+0000085436 00000 n 
+0000085470 00000 n 
+0000085504 00000 n 
+0000085538 00000 n 
+0000085572 00000 n 
+trailer
+<<
+/ID 
+[<8b484e2a391b134e794e9bfc7b314cec><8b484e2a391b134e794e9bfc7b314cec>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 23 0 R
+/Root 22 0 R
+/Size 66
+>>
+startxref
+85606
+%%EOF
